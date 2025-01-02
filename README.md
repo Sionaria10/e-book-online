@@ -5,10 +5,12 @@ Pojeto FlipBook feito na IDE Visual Studio Code com a linguagem: Html, CSS e Jav
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Projeto e-book-online - Bootc. Caixa</span>
+    <span>Projetos FlipBook e-book-online - Bootc. Caixa</span>
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
+
+![Flip Book - Inteligência Artificial e Sociedade](https://github.com/user-attachments/assets/cf0f4e32-5fa7-48ad-9da5-1cca74e0627e" width="200" heigth="150")
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 

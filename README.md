@@ -1,6 +1,6 @@
 # FlipBook
 
-Pojeto FlipBook feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript. Objetivo: Explorar e por em prática os conceitos aprendidos em aula. [^1].
+Projeto FlipBook feito na IDE Visual Studio Code com a linguagem: Html, CSS e Javascript. Objetivo: Explorar e por em prática os conceitos aprendidos em aula. [^1].
 
 <h1>
     <a href="https://www.dio.me/">
@@ -51,4 +51,4 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
 
-[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana (dio) e fiz este projeto também com a orientação do Expert Felipe Aguiar e o Flip Book (Youtube - adaptei).
+[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana e o projeto e-book-online com a orientação do Expert Felipe Aguiar e o Flip Book (Youtube - coding-jason) adaptei).

@@ -51,4 +51,4 @@ Projeto informativo relatando os desafios nesses dia atuais em lidar com a Tecno
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
 
-[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana e o projeto e-book-online com a orientação do Expert Felipe Aguiar e o Flip Book (Youtube - coding-jason) adaptei).
+[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana e o projeto e-book-online com a orientação do Expert Felipe Aguiar e o Flip Book (Youtube - codingstar-jason) adaptei).

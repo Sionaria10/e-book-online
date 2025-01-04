@@ -10,7 +10,7 @@ Projeto FlipBook feito na IDE Visual Studio Code com a linguagem: Html, CSS e Ja
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
 
-![capa-flipBook](https://github.com/user-attachments/assets/e6f10774-128e-405a-a727-978f25eb81eb)
+![FlipBook - Inteligência Artificial e Sociedade -](https://github.com/user-attachments/assets/61b16cda-de32-40d6-9c07-ba3673163878)
 
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 

@@ -12,6 +12,7 @@ Repositório desenvolvido para fins educativos, com a disponibilização de mate
 
 ![FlipBook - Inteligência Artificial e Sociedade -](https://github.com/user-attachments/assets/61b16cda-de32-40d6-9c07-ba3673163878)
 https://belisnalvacosta.github.io/e-book-online/
+and
 https://belisnalvacosta.github.io/E-book-link/
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
